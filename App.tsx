@@ -9,7 +9,6 @@ export default function App() {
       <Cat name='"Meng"'/>
       <Cat name='"Garfield"'/>
       <Cat name='Barong'/>
-      
       <Calculator/>
       <StatusBar style="auto" />
     </View>
